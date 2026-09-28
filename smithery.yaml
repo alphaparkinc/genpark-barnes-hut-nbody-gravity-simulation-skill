@@ -1,0 +1,6 @@
+name: genpark-barnes-hut-nbody-gravity-simulation-skill
+version: 1.0.0
+description: Barnes-Hut hierarchical quadtree N-body gravitational simulation with multipole acceptance criteria
+command: python
+args:
+  - mcp_server.py
