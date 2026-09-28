@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-barnes-hut-nbody-gravity-simulation-skill"
+version = "1.0.0"
+description = "Barnes-Hut hierarchical quadtree N-body gravitational simulation with multipole acceptance criteria"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
